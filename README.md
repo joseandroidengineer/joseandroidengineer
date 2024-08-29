@@ -1,11 +1,29 @@
-## Hi there 👋
 
-My name is Jose, a Mobile Developer. I've been in the software development industry for about 9 years already and I graduated from college in 2014.
+
+
+<h3 align="center">Hi there! I'm Jose 👋</a> 👋</h3>
+<br>
+<p align="center">
+  👾  Android Engineer
+  <br>
+  💻  Im a passionate Android Software Engineer.  I've been in the software development industry for about 9 years already and I graduated from college in 2014.
 My whole experience has been nothing but Android Development and I love it. Looking forward to continue building cool stuff and work on other projects 
 besides my own.
+  <br>
+  📫 How to reach me: <a href="mailto: jesca15341@gmail.com">jesca15341@gmail.com</a>
+  
+</p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=joseandroidengineer&count_private=true&show_icons=true&theme=darcula&include_all_commits=true)](https://github.com/joseandroidengineer)
-
+<div style="display:flex;">
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source.">
+    <img height=174 align="center" src="https://github-readme-stats.vercel.app/api?username=joseandroidengineer&show_icons=true">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseandroidengineer&langs_count=10&layout=compact" />
+  </a>
+  </p>
+  </div>
 
 <!--
 **joseandroidengineer/joseandroidengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
