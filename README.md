@@ -17,10 +17,10 @@ besides my own.
 <div style="display:flex;">
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source.">
-    <img height=174 align="center" src="https://github-readme-stats.vercel.app/api?username=joseandroidengineer&show_icons=true">
+    <img height=174 align="center" src="https://github-readme-stats.vercel.app/api?username=joseandroidengineer&theme=blue-green&show_icons=true">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseandroidengineer&langs_count=10&layout=compact" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseandroidengineer&theme=blue-green&langs_count=10&layout=compact" />
   </a>
   </p>
   </div>
