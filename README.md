@@ -6,7 +6,7 @@
 <p align="center">
   👾  Android Engineer
   <br>
-  💻  Im a passionate Android Software Engineer.  I've been in the software development industry for about 9 years already and I graduated from college in 2014.
+  💻  Im a passionate Android Software Engineer.  I've been in the software development industry for about 9 years.
 My whole experience has been nothing but Android Development and I love it. Looking forward to continue building cool stuff and work on other projects 
 besides my own.
   <br>
