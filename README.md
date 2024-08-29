@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Jose, a Mobile Developer. I've been in the software development industry for about 9 years already and I graduated from college in 2014.
+My whole experience has been nothing but Android Development and I love it. Looking forward to continue building cool stuff and work on other projects 
+besides my own.
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=joseandroidengineer&count_private=true&show_icons=true&theme=darcula&include_all_commits=true)](https://github.com/joseandroidengineer)
+
+
 <!--
 **joseandroidengineer/joseandroidengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
