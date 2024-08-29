@@ -10,7 +10,7 @@
 My whole experience has been nothing but Android Development and I love it. Looking forward to continue building cool stuff and work on other projects 
 besides my own.
   <br>
-  📫 How to reach me: <a href="mailto: jesca15341@gmail.com">jesca15341@gmail.com</a>
+  📫 How to reach me: <a href="mailto: joseandroiddeveloper@gmail.com">joseandroiddeveloper@gmail.com</a>
   
 </p>
 
